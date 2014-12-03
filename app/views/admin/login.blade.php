@@ -42,7 +42,7 @@
             </form>
 
             <div class="margin text-center">
-                <span>Sign in using social networks</span>
+                <span>Sign in using social networkss接口</span>
                 <br/>
                 <button class="btn bg-light-blue btn-circle"><i class="fa fa-facebook"></i></button>
                 <button class="btn bg-aqua btn-circle"><i class="fa fa-twitter"></i></button>
